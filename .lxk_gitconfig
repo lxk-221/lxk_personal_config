@@ -5,6 +5,7 @@
 	proxy = 127.0.0.1:7890
 [https]
 	proxy = 127.0.0.1:7890
+<<<<<<< HEAD
 
 [alias]
 	graph = log --all --graph --decorate --oneline
@@ -14,3 +15,11 @@
 	c = commit
 
 
+=======
+	
+[alias]
+	graph = log --all --graph --decorate --oneline
+	al = add --all
+	a = all
+	b = branch
+>>>>>>> f9d2c2303d0045aa0a428ff9730be9271da64746
