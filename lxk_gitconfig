@@ -1,5 +1,12 @@
+[http]
+	proxy = 127.0.0.1:7890
+[https]
+	proxy = 127.0.0.1:7890
+
 [alias]
 	graph = log --all --graph --decorate --oneline
 	
 [alias]
 	al = add --all
+
+
