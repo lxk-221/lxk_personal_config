@@ -1,0 +1,5 @@
+[alias]
+	graph = log --all --graph --decorate --oneline
+	
+[alias]
+	al = add --all
