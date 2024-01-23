@@ -1,3 +1,6 @@
+[core]
+	editor = vim
+
 [http]
 	proxy = 127.0.0.1:7890
 [https]
@@ -8,5 +11,6 @@
 	
 [alias]
 	al = add --all
+
 
 
